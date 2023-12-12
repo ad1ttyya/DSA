@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "StructPointer.C": "cpp",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
