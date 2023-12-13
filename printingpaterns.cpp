@@ -185,13 +185,14 @@ int main(){
 
     // Binary to decimal
     
-    unsigned long long int bin,weight=1,decimal=0;
-    cin>>bin;
-    while(bin!=0){
-        decimal += ((bin%10) * weight);
-        bin/=10;
-        weight*=2;
-    }
-    cout<<decimal;
+    // unsigned long long int bin,weight=1,decimal=0;
+    // cin>>bin;
+    // while(bin!=0){
+    //     decimal += ((bin%10) * weight);
+    //     bin/=10;
+    //     weight*=2;
+    // }
+    // cout<<decimal;
+    
     return 0;
 }
