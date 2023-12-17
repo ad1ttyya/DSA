@@ -67,6 +67,5 @@ int main(){
     // printArray(arr,sizeof(arr)/4);
     swapAlternatice(arr,sizeof(arr)/4);
     printArray(arr,sizeof(arr)/4);
-
     return 0;
 }
