@@ -194,5 +194,10 @@ int main(){
     // }
     // cout<<decimal;
     
+    // Array Test
+    int arr[5]={1,2,3,4,5};
+
+    cout<<*(arr+2);
+
     return 0;
 }
